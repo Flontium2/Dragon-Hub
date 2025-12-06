@@ -1,4 +1,4 @@
 return [[
-+ Added Gui Status (For Check Status/Update Log)
++ Added Gui Status
 + Added Anti Afk
 ]]
